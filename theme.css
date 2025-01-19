@@ -197,6 +197,16 @@ h1 {
     margin: 3px;
 }
 
+
+.type-algorithm::after {
+    content: "Algorithm";
+    display: inline-block;
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
 .type-math::after {
     content: "Math";
     display: inline-block;
